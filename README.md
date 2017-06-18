@@ -24,6 +24,8 @@ Tad - Free tabular data viewer - http://tadviewer.com/
 
 Briedcase - Build Python Native App - https://pybee.org/project/projects/tools/briefcase/
 
+Maya - Datetimes for Humans™ - https://github.com/kennethreitz/maya
+
 pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
 
 ### References
