@@ -36,6 +36,8 @@ Free Dev Services - List of services with free level - https://github.com/ripien
 
 Shields.io - Software Status Shields - http://shields.io/
 
+Signing Code on Github - https://medium.com/python-pandemonium/python-package-management-for-the-paranoid-52c23f6aba6a
+
 TL;DR;Legal - Info on Software Licenses - https://tldrlegal.com/
 
 VPS Comparison - https://github.com/joedicastro/vps-comparison
