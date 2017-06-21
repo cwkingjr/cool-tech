@@ -45,3 +45,7 @@ Visualizing data – overlaying charts in python - http://pythondata.com/visuali
 VPS Comparison - https://github.com/joedicastro/vps-comparison
 
 Web Dev Checklist - http://webdevchecklist.com/
+
+### Security and Operations
+
+Pilosa - Insanely Fast Queries on Really Big Data - https://www.pilosa.com/use-cases/monitoring-network-traffic/
