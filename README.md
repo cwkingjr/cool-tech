@@ -40,6 +40,8 @@ Signing Code on Github - https://medium.com/python-pandemonium/python-package-ma
 
 TL;DR;Legal - Info on Software Licenses - https://tldrlegal.com/
 
+Visualizing data – overlaying charts in python - http://pythondata.com/visualizing-data-overlaying-charts/
+
 VPS Comparison - https://github.com/joedicastro/vps-comparison
 
 Web Dev Checklist - http://webdevchecklist.com/
