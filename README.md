@@ -30,6 +30,8 @@ pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
 
 ### References
 
+Contributor Covenant - A Code of Conduct for Open Source Projects - http://contributor-covenant.org/
+
 Database ERD Designer - http://ondras.zarovi.cz/sql/demo/
 
 Free Dev Services - List of services with free level - https://github.com/ripienaar/free-for-dev
