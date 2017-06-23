@@ -10,6 +10,8 @@ Chartographer - Super simple charts via Plottable and D3 - https://github.com/da
 
 Now UI - Nice Bootstrap 4 UI Kit - http://demos.creative-tim.com/now-ui-kit/index.html
 
+Remark.js - A simple, in-browser, markdown-driven slideshow tool - http://remarkjs.com
+
 Reveal.js - A presentation framework - http://lab.hakim.se/reveal-js/#/
 
 vuetifyjs - Material Component Framework - https://vuetifyjs.com/
