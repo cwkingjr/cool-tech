@@ -6,7 +6,7 @@ htmlreference.io - A free guide to HTML - http://htmlreference.io/
 
 ### JavaScript
 
-Awesome D3 - A list of D3 libraries, plugins and utilities - https://github.com/wbkd/awesome-d3
+Awesome D3 - A list of D3 libraries, plugins, and utilities - https://github.com/wbkd/awesome-d3
 
 Chartographer - Super simple charts via Plottable and D3 - https://github.com/dandelionmane/chartographer
 
