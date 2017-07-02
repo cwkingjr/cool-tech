@@ -12,6 +12,8 @@ Chartographer - Super simple charts via Plottable and D3 - https://github.com/da
 
 D3.js - Data-Driven Documents - https://d3js.org/
 
+Functional Light JS - Functional programming in JS book - https://github.com/getify/Functional-Light-JS
+
 Now UI - Nice Bootstrap 4 UI Kit - http://demos.creative-tim.com/now-ui-kit/index.html
 
 Remark.js - A simple, in-browser, markdown-driven slideshow tool - http://remarkjs.com
