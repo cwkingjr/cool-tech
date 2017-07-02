@@ -14,6 +14,8 @@ D3.js - Data-Driven Documents - https://d3js.org/
 
 Functional Light JS - Functional programming in JS book - https://github.com/getify/Functional-Light-JS
 
+Mostly Adequate Guide - Frisby's guide to functional JS - https://github.com/MostlyAdequate/mostly-adequate-guide
+
 Now UI - Nice Bootstrap 4 UI Kit - http://demos.creative-tim.com/now-ui-kit/index.html
 
 Remark.js - A simple, in-browser, markdown-driven slideshow tool - http://remarkjs.com
@@ -36,7 +38,9 @@ Maya - Datetimes for Humans™ - https://github.com/kennethreitz/maya
 
 pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
 
-### References
+Visualizing data – overlaying charts in python - http://pythondata.com/visualizing-data-overlaying-charts/
+
+### References - Misc
 
 Contributor Covenant - A Code of Conduct for Open Source Projects - http://contributor-covenant.org/
 
@@ -50,7 +54,7 @@ Signing Code on Github - https://medium.com/python-pandemonium/python-package-ma
 
 TL;DR;Legal - Info on Software Licenses - https://tldrlegal.com/
 
-Visualizing data – overlaying charts in python - http://pythondata.com/visualizing-data-overlaying-charts/
+US Government Web Design Standards - https://github.com/18F/web-design-standards
 
 VPS Comparison - https://github.com/joedicastro/vps-comparison
 
