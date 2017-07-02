@@ -59,3 +59,5 @@ Web Dev Checklist - http://webdevchecklist.com/
 ### Security and Operations
 
 Pilosa - Insanely Fast Queries on Really Big Data - https://www.pilosa.com/use-cases/monitoring-network-traffic/
+
+W3AF - Web attack and audit framework - https://github.com/andresriancho/w3af
