@@ -26,6 +26,8 @@ vuetifyjs - Material Component Framework - https://vuetifyjs.com/
 
 Yarn - Improved Node Package Manager - https://yarnpkg.com/en/
 
+You Don't Know JS - A book series on JavaScript - https://github.com/getify/You-Dont-Know-JS
+
 ### Data Science
 
 Tad - Free tabular data viewer - http://tadviewer.com/
