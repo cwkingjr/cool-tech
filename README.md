@@ -32,6 +32,8 @@ You Don't Know JS - A book series on JavaScript - https://github.com/getify/You-
 
 ### Data Science
 
+Pandas in a Nutshell - http://kanoki.org/2017/07/16/pandas-in-a-nutshell/
+
 Tad - Free tabular data viewer - http://tadviewer.com/
 
 ### Python
