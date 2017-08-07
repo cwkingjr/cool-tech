@@ -14,6 +14,8 @@ D3.js - Data-Driven Documents - https://d3js.org/
 
 Functional Light JS - Functional programming in JS book - https://github.com/getify/Functional-Light-JS
 
+How to write a JS library - Lots of gold in here - https://egghead.io/courses/how-to-write-an-open-source-javascript-library
+
 Mostly Adequate Guide - Frisby's guide to functional JS - https://github.com/MostlyAdequate/mostly-adequate-guide
 
 Now UI - Nice Bootstrap 4 UI Kit - http://demos.creative-tim.com/now-ui-kit/index.html
