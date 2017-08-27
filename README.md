@@ -42,6 +42,8 @@ Tad - Free tabular data viewer - http://tadviewer.com/
 
 Briefcase - Build Python Native App - https://pybee.org/project/projects/tools/briefcase/
 
+Google Style Guide - https://google.github.io/styleguide/pyguide.html
+
 Maya - Datetimes for Humans™ - https://github.com/kennethreitz/maya
 
 pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
