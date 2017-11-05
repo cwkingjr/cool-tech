@@ -50,6 +50,10 @@ Maya - Datetimes for Humans™ - https://github.com/kennethreitz/maya
 
 pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
 
+Python 2 Module Index - https://docs.python.org/2.7/py-modindex.html
+
+Python 3 Module Index - https://docs.python.org/3.6/py-modindex.html
+
 Visualizing data – overlaying charts in python - http://pythondata.com/visualizing-data-overlaying-charts/
 
 ### References - Misc
