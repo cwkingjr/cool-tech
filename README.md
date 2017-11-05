@@ -58,6 +58,8 @@ Python 3 Module Index - https://docs.python.org/3.6/py-modindex.html
 
 Visualizing data – overlaying charts in python - http://pythondata.com/visualizing-data-overlaying-charts/
 
+WTF Python - A collection of interesting, subtle, and tricky Python snippets - https://github.com/satwikkansal/wtfpython
+
 ### References - Misc
 
 Contributor Covenant - A Code of Conduct for Open Source Projects - http://contributor-covenant.org/
