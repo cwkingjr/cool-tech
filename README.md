@@ -44,6 +44,8 @@ Briefcase - Build Python Native App - https://pybee.org/project/projects/tools/b
 
 Google Style Guide - https://google.github.io/styleguide/pyguide.html
 
+LibHunt - A curated list of awesome Python frameworks, packages, software and resources - https://python.libhunt.com/
+
 Maya - Datetimes for Humans™ - https://github.com/kennethreitz/maya
 
 pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
