@@ -28,6 +28,8 @@ Maya - Datetimes for Humans™ - https://github.com/kennethreitz/maya
 
 pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
 
+Py-Spy - A sampling profiler for Python programs - https://github.com/benfred/py-spy
+
 ### References
 
 Database ERD Designer - http://ondras.zarovi.cz/sql/demo/
