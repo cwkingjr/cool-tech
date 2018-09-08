@@ -54,8 +54,6 @@ pipenv - marriage of pip and env - https://github.com/kennethreitz/pipenv
 
 Py-Spy - A sampling profiler for Python programs - https://github.com/benfred/py-spy
 
-### References
-
 Python 2 Module Index - https://docs.python.org/2.7/py-modindex.html
 
 Python 3 Module Index - https://docs.python.org/3.6/py-modindex.html
