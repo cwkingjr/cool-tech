@@ -62,7 +62,9 @@ Web Dev Checklist - <http://webdevchecklist.com/>
 
 ## Python
 
-Briefcase - Build Python Native App - <https://pybee.org/project/projects/tools/briefcase/>
+Briefcase - Build Python Native App - <https://beeware.org/project/projects/tools/briefcase/>
+
+Datesette - Explore data efficiently - <https://datasette.io/>
 
 Graph Gallery - <https://python-graph-gallery.com/>
 
