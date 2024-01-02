@@ -82,6 +82,8 @@ WTF Python - A collection of interesting, subtle, and tricky Python snippets - <
 
 ## Rust
 
+Blessed Crates - An unofficial guide to the Rust ecosystem - <https://blessed.rs/crates?lid=35102>
+
 Let's get Rusty - <https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8>
 
 ## Security and Operations
