@@ -84,7 +84,9 @@ WTF Python - A collection of interesting, subtle, and tricky Python snippets - <
 
 Blessed Crates - An unofficial guide to the Rust ecosystem - <https://blessed.rs/crates?lid=35102>
 
-Let's get Rusty - <https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8>
+Let's get Rusty - The Rust Programming Book Tutorial - <https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8>
+
+Trevor Sullivan - Rust Programming Tutorial - <https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL>
 
 ## Security and Operations
 
